@@ -25,7 +25,7 @@ I am also learning other languages and tools project for creating my own product
 
 ## 💬 Ask me about ...
 
-- Anything related to ThingWorx, Postgresql,
+- Anything related to ThingWorx, Postgresql, Node-Red, NodeJS, Docker, MQTT, Kepware
 - My experience as a software engineer at BrandIT
 - My hobbies and interests such as reading, gaming, and sports
 
