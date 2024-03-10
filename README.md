@@ -13,8 +13,15 @@ I am also learning other languages and tools project for creating my own product
 
 ## 🌱 I’m currently learning ...
 
-- Advanced topics in JavaScript, CI/CD, Databases, Log Monitoring Tools 
-- Docker, Kubernates
+- Advanced topics in JavaScript
+- CI/CD,
+- Grafana
+- Javascipt
+- Python
+- C#
+- .Net Core
+- PHP
+- Docker, Swarm , Kubernates
 - VueJS
 - MongoDB
 - PostgreSQL
