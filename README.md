@@ -1,6 +1,8 @@
 # Hi there, I'm Murat Can Berber 👋
 
-I'm a software team leader at BrandIT, where I work on IIoT project on PTC's ThingWorx Platform using Kepware, Postgresql, MSSQL, TiemscaleDB, NodeJS, Grafana, Node-RED, Splunk, etc. I mainly type JavaScript, and SQL on my projects.
+I'm a software team leader at BrandIT, where I work on IIoT project on PTC's ThingWorx Platform using Kepware, Postgresql | Timescale, MSSQL, NodeJS, Grafana, Node-RED, Splunk, etc. 
+
+I mainly code in JavaScript, and SQL on my projects. Bu i have worked with other languages like Python, C# too.
 
 I have a Master's degree in Management Information Systems at Ahmet Yesevi University.
 
