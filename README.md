@@ -5,6 +5,7 @@ I'm a software team leader at BrandIT, where I work on IIoT project on PTC's Thi
 I have a Master's degree in Management Information Systems at Ahmet Yesevi University.
 
 ## 🔭 I’m currently working on ...
+- My Youtube Channel [![CodeWithMCB YouTube Channel](https://i.imgur.com/jwZa8R8.png)](https://www.youtube.com/@CodeWithMCB)
 - Building ThingWorx Application and help my team grow and improve their workflow.
 - Create distributed systems for managing high loads on factories or production sites.
 - Building a data pipeline and dashboard for BrandIT using Thingworx, Grafana, Splunk
